@@ -1,0 +1,7 @@
+/build*/
+/dist/
+/*.egg-info/
+/openmc-src/
+__pycache__/
+*.py[cod]
+node_modules/
